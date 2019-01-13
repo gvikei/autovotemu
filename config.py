@@ -9,3 +9,5 @@ class CONFIG:
 		buy_many = False
 		auto_sell = False
 		use_proxy = True
+	class VOTE:
+		login_proxy = False
