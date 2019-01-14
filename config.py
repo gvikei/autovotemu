@@ -12,3 +12,6 @@ class CONFIG:
 		use_proxy = False
 	class VOTE:
 		login_proxy = False
+
+	class GET_BALANCE:
+		login_proxy = False
