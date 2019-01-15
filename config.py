@@ -9,7 +9,8 @@ class CONFIG:
 		turns = 1
 		buy_many = False
 		auto_sell = False
-		use_proxy = False
+		sell_proxy = False
+		login_proxy = False
 	class VOTE:
 		login_proxy = False
 
