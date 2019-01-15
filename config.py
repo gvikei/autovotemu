@@ -1,7 +1,7 @@
 class CONFIG:
 	class SELL_ITEM:
-		username = "davidvu4"
-		password = "Dotkich123"
+		username = ""
+		password = ""
 		char_name = "DarkMG"
 		price = 79
 		start_slot = 98
