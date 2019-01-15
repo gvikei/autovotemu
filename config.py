@@ -1,12 +1,12 @@
 class CONFIG:
 	class SELL_ITEM:
-		username = "squiral03"
-		password = "tuanphong"
-		char_name = "magigaladi"
-		price = 40
-		start_slot = 77
-		num_sell = 10
-		turns = 5
+		username = "davidvu4"
+		password = "Dotkich123"
+		char_name = "DarkMG"
+		price = 79
+		start_slot = 98
+		num_sell = 5
+		turns = 1
 		buy_many = False
 		auto_sell = False
 		use_proxy = False
@@ -15,3 +15,6 @@ class CONFIG:
 
 	class GET_BALANCE:
 		login_proxy = False
+# usd15
+# 4ae242
+# usd006
